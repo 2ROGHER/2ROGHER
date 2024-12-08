@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 💡 Tecnologías y Herramientas
 
-### 🤖 **Lenguajes** :
+### 🤖 **Lenguajes**
 - JavaScript (ES6+), TypeScript, Python, Java, SQL, C++  
 
 ### 🖥️ **Front-End**
