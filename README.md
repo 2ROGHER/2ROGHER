@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! 👋 Soy Roger Mestanza Martinez.
+# ¡Hola! 👋 Soy Roger Mestanza
 
 **Ingeniero de Software** | **Full-Stack Developer** | **Apasionado por la tecnología** | **Creador de soluciones innovadoras** 🇵🇪
 
