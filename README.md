@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 ### 🤖 **Lenguajes**
 - JavaScript (ES6+), TypeScript, Python, Java, SQL, C++  
 
-### 🖥️ **Front-End**
+### 🎨🖌️ **Front-End**
 - React, Angular, Redux, RxJs, NgRx, HTML5, CSS3, SASS, TailwindCSS, Bootstrap, Webpack
 
-### 🎨🖌️ **Back-End**
+### 🖥️ **Back-End**
 - Node.js, Express.js, Nest.js, Spring Boot, Spring Cloud, Spring Security, Spring Web, Django, RESTful APIs, Microservicios 
 
 ### 🧠 **Bases de Datos**
