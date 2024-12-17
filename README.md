@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 - JavaScript (ES6+), TypeScript, Python, Java, SQL, C++  
 
 ### 🎨🖌️ **Front-End**
-- React, Angular, Redux, RxJs, NgRx, HTML5, CSS3, SASS, TailwindCSS, Bootstrap, Webpack
+- React, Angular, Redux, RxJs, NgRx, HTML5, CSS3, SASS, TailwindCSS, Bootstrap, Webpack, React Hooks, WebSockets, WebStorage API
 
 ### 🖥️ **Back-End**
-- Node.js, Express.js, Nest.js, Spring Boot, Spring Cloud, Spring Security, Spring Web, Django, RESTful APIs, Microservicios 
+- Node.js, Express.js, Nest.js, Spring Boot, Spring Cloud, Spring Security, Spring Web, Django, RESTful APIs, Microservicios, GraphQL, JWT, OAuth 2.0
 
 ### 🧠 **Bases de Datos**
 - PostgreSQL, MySQL, SQL Server, MongoDB
@@ -71,9 +71,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📜 Certificaciones
-- **Desarrollador Back-End** - Alura (2023)  
-- **Control de Versiones: Git y GitHub** - Alura (2023)  
-- **Desarrollador Front-End** - Alura (2023)  
+- **Desarrollador Back-End** - Alura (2022)
+- **Desarrollador Front-End** - Alura (2022)   
+- **Control de Versiones: Git y GitHub** - Alura (2023)
+- **Metologías Ágiles** - Alura (2023)
 - **Desarrollo de Aplicaciones Móviles** - FreeCodeCamp, OpenBootCamp (2024)
 - **Desarrolladore de aplicaciones Web** - MTPE (2024)
 
