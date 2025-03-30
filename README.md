@@ -58,68 +58,53 @@ Here are some ideas to get you started:
 
 - JavaScript (ES6+), TypeScript, Python, Java, SQL, Kotlin, C++.
 
-<span style="display: flex; gap: 10px; align-items: center">
-
-![java-log](./assets/svg/java-4-logo-svgrepo-com.svg)
-
-![java-script-log](./assets/svg/javascript-svgrepo-com.svg)
-
-![typescript-logo](./assets//svg/typescript-icon-svgrepo-com.svg)
-
-![python-logo](./assets//svg/python-svgrepo-com.svg)
-
-![kotlin-logo](./assets/svg/kotlin-svgrepo-com.svg)
-
-![cpp-logo](./assets/svg/cpp3-svgrepo-com.svg)
+<table style=" style="border-collapse: collapse; border: none;"">
+  <tr>
+    <td><img src="./assets/svg/java-4-logo-svgrepo-com.svg" width="50"></td>
+    <td><img src="./assets/svg/javascript-svgrepo-com.svg" width="50"></td>
+    <td><img src="./assets/svg/typescript-icon-svgrepo-com.svg" width="50"></td>
+    <td><img src="./assets/svg/python-svgrepo-com.svg" width="50"></td>
+    <td><img src="./assets/svg/kotlin-svgrepo-com.svg" width="50"></td>
+    <td><img src="./assets/svg/cpp3-svgrepo-com.svg" width="50"></td>
+  </tr>
+</table>
 
 
-</span>
 
 ### 🎨🖌️ **Front-End**
 
 - React, Angular, Redux, RxJs, NgRx, HTML5, CSS3, SASS, TailwindCSS, Bootstrap, Webpack, React Hooks, WebSockets, WebStorage API.
 
-<span style="display: flex; gap: 10px; align-items: center">
-
-![html-logo](./assets/svg/html-5-svgrepo-com.svg)
-
-![css-logo](./assets/svg/css-3-svgrepo-com.svg)
-
-![react-logo](./assets/svg/react-svgrepo-com.svg)
-
-![angular-logo](./assets/svg/angular-svgrepo-com.svg)
-
-![redux-logo](./assets/svg/redux-svgrepo-com.svg)
-
-![sass-logo](./assets/svg/sass-svgrepo-com.svg)
-
-![rxjs-logo](./assets/svg/reactivex-svgrepo-com.svg)
-
-![firebase-logo](./assets/svg/firebase-svgrepo-com.svg)
-
-</span>
+<table>
+  <tr>
+    <td><img src="./assets/svg/html-5-svgrepo-com.svg"</td>
+    <td><img src="./assets/svg/css-3-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/react-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/angular-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/redux-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/sass-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/reactivex-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/firebase-svgrepo-com.svg"></td>
+  </tr>
+</table>
 
 ### 🖥️ **Back-End**
 
 - Node.js, Express.js, Nest.js, Spring Boot, Spring Cloud, Spring Security, Spring Web, Django, RESTful APIs, Microservicios, GraphQL, JWT, OAuth 2.0.
 
-<span style="display: flex; gap: 10px">
+<table>
+  <tr>
+    <td><img src="./assets/svg/spring-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/icons8-nestjs-logo-48.png"></td>
+    <td><img src="./assets/svg/django-svgrepo-com%20(1).svg"></td>
+    <td><img src="./assets/svg/Django%20REST.svg"></td>
+    <td><img src="./assets/svg/node-js-svgrepo-com%20(1).svg"></td>
+    <td><img src="./assets/svg/icons8-prisma-orm.svg"></td>
+    <td><img src="./assets/svg/sequelize-svgrepo-com.svg"></td>
+    <td><img src="./assets/svg/graph-ql-svgrepo-com.svg"></td>
+  </tr>
+</table>
 
-![spring-logo](<./assets/svg/spring-svgrepo-com%20(1).svg>)
-
-![nest-logo](./assets/svg/icons8-nestjs-logo-48.png)
-
-![django-logo](<./assets/svg/django-svgrepo-com%20(1).svg>)
-
-![django-rest-logo](./assets/svg/Django%20REST.svg)
-
-![node-logo](<./assets/svg/node-js-svgrepo-com%20(1).svg>)
-
-![prisma-logo](./assets/svg/icons8-prisma-orm.svg)
-
-![sequelize-logo](./assets/svg/sequelize-svgrepo-com.svg)
-
-![graphql-logo](./assets/svg/graph-ql-svgrepo-com.svg)
 
 </span>
 
