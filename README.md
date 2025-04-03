@@ -117,11 +117,9 @@ Here are some ideas to get you started:
 
 
 ## 🧑‍🎓 About me
-
-- 🎯 **Enfoque:** Desarrollo de aplicaciones modernas, escalables, optimizadas y seguras, priorizando la experiencia del usuario.
-- 📚 **Perfil:** Soy un **Software Engineer** especializado en el desarrollo Web Full-Stack para la creacion de aplicaciones modernas integrando tecnologías de última generación.
-- 🌱 **Lema personal:** "El aprendizaje constante es la clave para resolver problemas complejos y contribuir en éxito de las organizaciones."
-
+- 🎯 **Focus:** Development of modern, scalable, optimized, and secure applications, prioritizing user experience.
+- 📚 **Profile:** I am a **Software Engineer** specialized in full-stack web development for the creation of modern applications integrating cutting-edge technologies.
+- 🌱 **Personal motto:** "Constant learning is the key to solving complex problems and contributing to the success of organizations."
 
 
 ## 🏆 Proyects and wards
@@ -239,41 +237,43 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
+- **Software Engineer** - Technological University of Peru
+Currently in the 8th semester | STEM Tutor in Algorithms and Data Structures | Order of Merit (2019)
+
+## 📜 Certifications
+
+- **Back-End Developer** - Alura (2022)
+- **Front-End Developer** - Alura (2022)
+- **Intermediate English B1** - UTP (2022)
+- **Version Control: Git and GitHub** - Alura (2023)
+- **Agile Methodologies** - Alura (2023)
+- **Mobile Application Development** - FreeCodeCamp, OpenBootCamp (2024)
+- **Web Application Developer** - MTPE (2024)
+
+## 🌟 Why work with me?
+
+- 🔍 **Focus on quality:** Every line of code I write is designed to be scalable, secure, and high-performance.
+- 🤝 **Teamwork:** I collaborate effectively with multidisciplinary teams to achieve common goals.
+- 🚀 **Passion for learning:** I stay up-to-date with the latest trends in technology and development.
+
 - **Software Engeneer** -   Technologycal University of Peru  
   Actualmente en el VIII ciclo | Tutor STEM en Algoritmos y Estructura de Datos | Orden al Mérito (2019)
 
 
-## 📜 Certificaciones
 
-- **Desarrollador Back-End** - Alura (2022)
-- **Desarrollador Front-End** - Alura (2022)
-- **Ingles Intermedio B1** - UTP (2022)
-- **Control de Versiones: Git y GitHub** - Alura (2023)
-- **Metologías Ágiles** - Alura (2023)
-- **Desarrollo de Aplicaciones Móviles** - FreeCodeCamp, OpenBootCamp (2024)
-- **Desarrolladore de aplicaciones Web** - MTPE (2024)
-
-
-## 🌟 ¿Por qué trabajar conmigo?
-
-- 🔍 **Enfoque en la calidad:** Cada línea de código que escribo está pensada para ser escalable, segura y de alto rendimiento.
-- 🤝 **Trabajo en equipo:** Colaboro eficazmente con equipos multidisciplinarios para lograr objetivos comunes.
-- 🚀 **Pasión por aprender:** Me mantengo al día con las últimas tendencias en tecnología y desarrollo.
 
 ## Statics
 
 ###
-  ![alt text](image.png)
+  <!--![alt text](image.png) -->
 
   
 ###
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=2ROGHER&theme=dracula"/></div>
+<!--<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=2ROGHER&theme=dracula"/></div> -->
 
 ###
 
 ###
-
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2ROGHER&theme=react-dark)
 
@@ -281,52 +281,51 @@ Here are some ideas to get you started:
 
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&layout=compact&theme=radical" />
-
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&layout=compact&theme=radical" />  -->
 </div>
 
 ###
 
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical)
+<!--![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical) -->
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=mi-proyecto&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=2ROGHER&theme=radical)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2ROGHER&theme=radical)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2ROGHER&theme=radical)
 
-![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
+![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify) -->
 
 
 
 <!-- ### 🚀 ¡Hola! Soy 2ROGHER 👋 -->
 
-📊 **Estadísticas de mi GitHub**
+<!--📊 **Estadísticas de mi GitHub** -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical)
 
-🔥 **Mi racha de commits**
+<!--🔥 **Mi racha de commits** -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2ROGHER&theme=dark)
 
-📈 **Actividad reciente**
+<!--📈 **Actividad reciente** -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2ROGHER&theme=react-dark)
 
-🏆 **Mis trofeos**
+<!--🏆 **Mis trofeos** -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=2ROGHER&theme=dracula)
 
-🎶 **Escuchando ahora en Spotify**
-![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
+<!--🎶 **Escuchando ahora en Spotify**
+![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify) -->
 
 
-![Metrics](https://metrics.lecoq.io/2ROGHER)
+<!--![Metrics](https://metrics.lecoq.io/2ROGHER)-->
 
 
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2ROGHER&theme=github_dark)
 
-![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
+<!--![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
 
-[![YouTube](https://github-readme-youtube-stats.vercel.app/api/video?id=VIDEO_ID)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![YouTube](https://github-readme-youtube-stats.vercel.app/api/video?id=VIDEO_ID)](https://www.youtube.com/watch?v=VIDEO_ID) ->
 
 
 
