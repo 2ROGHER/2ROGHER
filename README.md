@@ -13,183 +13,235 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! 👋 Soy Roger Mestanza
+###
 
-**Ingeniero de Software** | **Full-Stack Developer** | **Apasionado por la tecnología** | **Creador de soluciones innovadoras** 🇵🇪
+<h1 align="center"> 🙋‍♂️ Hi!, I'm Roger Mestanza </h1>
 
-🌍 **Ubicación:** Lima, Perú  
-📧 **Email:** [rogers.mestanza@gmail.com](mailto:rogers.mestanza@gmail.com)  
-🔗 **LinkedIn:** [roger-mestanza-martinez](http://www.linkedin.com/in/roger-mestanza-martinez-70368a181)  
-💻 **GitHub:** [2ROGHER](https://github.com/2ROGHER)
+###
 
----
+###
 
-## 🧑‍🎓 Sobre mí
+<h3 align="center">Software Engineer | Full-Stack Developer | Passionate about technology | Creator of innovative solutions</h3>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=2ROGHER&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/2ROGHER?label=Seguidores&style=flat-square"/>
+  <img src="https://img.shields.io/github/repos/2ROGHER?style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/2ROGHER?affiliations=OWNER&style=flat-square"/>
+  <img src="https://img.shields.io/github/commit-activity/w/2ROGHER?style=flat-square" />
+  <img src="https://badges.pufler.dev/years/2ROGHER"/>
+  <img src="https://badges.pufler.dev/commits/daily/2ROGHER"/>
+
+</div>
+
+<div align="center">
+  
+
+</div>
+
+
+
+<!-- ![GitHub public repos](https://img.shields.io/github/repos/2ROGHER?style=flat-square)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/2ROGHER/TU_REPO?style=flat-square)
+
+![Active GitHub Days](https://badges.pufler.dev/commits/monthly/2ROGHER)
+
+
+![GitHub User Status](https://dev.to/metrics/user-status/2ROGHER?theme=dark)
+
+![GitHub stars](https://img.shields.io/github/stars/2ROGHER?affiliations=OWNER&style=flat-square)
+![GitHub Age](https://badges.pufler.dev/years/2ROGHER) -->
+
+
+
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&langs_count=8&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2ROGHER&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2ROGHER&theme=github)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=2ROGHER&theme=highcontrast&hide_border=true)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Profile View Counter](https://profile-counter.glitch.me/2ROGHER/count.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=2ROGHER&color=blue&style=flat-square) -->
+
+
+
+
+
+
+
+
+###
+
+<!-- ###
+
+<div align="center" style="display: flex; align-items: center; justify-content: center"><h3>Lima, Peru</h3><img src="https://www.svgrepo.com/show/405581/flag-for-flag-peru.svg" height="24" /></div>
+
+### -->
+
+
+
+###
+
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+
+## 🧑‍🎓 About me
 
 - 🎯 **Enfoque:** Desarrollo de aplicaciones modernas, escalables, optimizadas y seguras, priorizando la experiencia del usuario.
 - 📚 **Perfil:** Soy un **Software Engineer** especializado en el desarrollo Web Full-Stack para la creacion de aplicaciones modernas integrando tecnologías de última generación.
 - 🌱 **Lema personal:** "El aprendizaje constante es la clave para resolver problemas complejos y contribuir en éxito de las organizaciones."
 
----
 
-## 🏆 Proyectos Destacados
 
-- **Todo App 📝:** Desarrollo de una aplicación de gestión de tareas con React, utilizando Hooks avanzados para la gestión eficiente de estado y memoization para optimizar la renderización. Implementación de consumo de APIs RESTful con soporte para paginación, búsqueda dinámica y manejador de errores. Diseño modular y escalable usando SASS/SCSS para estilos responsivos y componentes reutilizables. Implementación de pruebas unitarias y de integración con Jest.
+## 🏆 Proyects and wards
+
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 1.5rem;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=todos&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=civa-checkpoint&theme=cobalt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=color-organizer-app&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=College-api&theme=darcula">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=WhitheSide-API&theme=dark">
+</div>
+
+
+
+
+
+## 💡 Tech and Tools
+
+###
+
+<div align="left" style="background: #1f1f1f; padding: 2rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="48" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="48" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="48" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="48" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="48" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="48" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="48" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="48" alt="jasmine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="48" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="48" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="48" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="48" alt="visualstudio logo"  />
+</div>
 
-- **Color Organizer App 🎨:** Aplicación web para la gestión de paletas de colores desarrollada con Angular y NgRx para gestión centralizada de estados. Implementación de programación reactiva mediante RxJS y Observables para la búsqueda optimizada y actualización en tiempo real. Formularios controlados y validados con Reactive Forms y Template Drive Forms, carga diferida (Lazy Loading) de módulos y autenticación segura mediante Firebase Authentication y Storage API. Implementación de Directivas y Pipes personalizadas. Testing mediante Jest.
 
-- **WhiteSide Storage App 🫙:** Plataforma integral para la gestión, venta y distribución de dispositivos electrónicos y licencias de software. Desarrollada con Angular 18+ y NgRx para la gestión reactiva de estados. Optimización de rendimiento con Change Detection Strategy y OnPush. Consumo de APIs externas con HTTP Interceptors y HttpCliend Module para la persistencia y manipulación de datos. Seguridad robusta con JWT y OAuth2.0 para autenticación/autorización. Integración de pasarela de pagos Stripe y desarrollo de pruebas unitarias y de integración con Jest y Karma.
 
-- **Aplicaciones Web Multiplataforma:** Desarrollo de interfaces dinámicas y altamente reactivas usando React y Angular, con gestión de estados complejos mediante Redux y NgRx. Implementación de diseño modular y arquitectura desacoplada para facilitar la escalabilidad y mantenibilidad.
+###
 
-- **Template Webpack + TS + Babel + SASS 🏛️:** Desarrollo de una plantilla web altamente optimizada y configurable, publicada en npmjs.org, instalable mediante npm install, que integra Webpack como bundler principal, Babel para la transpilación de JavaScript moderno, y soporte nativo para TypeScript. Incluye Loaders para SASS/SCSS, imágenes y archivos estáticos, además de Jest para pruebas unitarias y Webpack Dev Server para desarrollo en caliente (Hot Module Replacement - HMR). El objetivo es acelerar la configuración inicial de proyectos con React y TypeScript, eliminando configuraciones manuales repetitivas y ofreciendo una experiencia similar a Vite o create-react-app, para prototipado rápido y escalable.
 
 
-- **Optimización de Base de Datos :** Diseñé un sistema para Supermercados Peruanos SAC, mejorando la eficiencia en un 25% utilizando procedimientos almacenados y funciones en SQL Server.
-- **Aplicaciones Multiplataforma:** Desarrollo de interfaces dinámicas y reactivas con React y Angular, mejorando la experiencia del usuario en un 30%.
+## 🎓 Education
 
-- **Microservicios y APIs:** Creé APIs RESTful escalables utilizando Node.js y Java, integrados con Docker para un despliegue eficiente.
-
----
-
-## 💡 Tecnologías y Herramientas
-
-### 🤖 **Lenguajes**
-
-- JavaScript (ES6+), TypeScript, Python, Java, SQL, Kotlin, C++.
-
-<table style=" style="border-collapse: collapse; border: none;"">
-  <tr>
-    <td><img src="./assets/svg/java-4-logo-svgrepo-com.svg" width="50"></td>
-    <td><img src="./assets/svg/javascript-svgrepo-com.svg" width="50"></td>
-    <td><img src="./assets/svg/typescript-icon-svgrepo-com.svg" width="50"></td>
-    <td><img src="./assets/svg/python-svgrepo-com.svg" width="50"></td>
-    <td><img src="./assets/svg/kotlin-svgrepo-com.svg" width="50"></td>
-    <td><img src="./assets/svg/cpp3-svgrepo-com.svg" width="50"></td>
-  </tr>
-</table>
-
-
-
-### 🎨🖌️ **Front-End**
-
-- React, Angular, Redux, RxJs, NgRx, HTML5, CSS3, SASS, TailwindCSS, Bootstrap, Webpack, React Hooks, WebSockets, WebStorage API.
-
-<table>
-  <tr>
-    <td><img src="./assets/svg/html-5-svgrepo-com.svg"</td>
-    <td><img src="./assets/svg/css-3-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/react-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/angular-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/redux-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/sass-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/reactivex-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/firebase-svgrepo-com.svg"></td>
-  </tr>
-</table>
-
-### 🖥️ **Back-End**
-
-- Node.js, Express.js, Nest.js, Spring Boot, Spring Cloud, Spring Security, Spring Web, Django, RESTful APIs, Microservicios, GraphQL, JWT, OAuth 2.0.
-
-<table>
-  <tr>
-    <td><img src="./assets/svg/spring-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/icons8-nestjs-logo-48.png"></td>
-    <td><img src="./assets/svg/django-svgrepo-com%20(1).svg"></td>
-    <td><img src="./assets/svg/Django%20REST.svg"></td>
-    <td><img src="./assets/svg/node-js-svgrepo-com%20(1).svg"></td>
-    <td><img src="./assets/svg/icons8-prisma-orm.svg"></td>
-    <td><img src="./assets/svg/sequelize-svgrepo-com.svg"></td>
-    <td><img src="./assets/svg/graph-ql-svgrepo-com.svg"></td>
-  </tr>
-</table>
-
-
-</span>
-
-### 🧠 **Bases de Datos**
-
-- PostgreSQL, MySQL, SQL Server, MongoDB.
-
-<span style="display: flex; gap: 10px; align-items: center">
-
-![mysql-logo](./assets/svg/mysql-logo-svgrepo-com.svg)
-
-![sql-server-logo](./assets/svg/microsoft-sql-server-logo-svgrepo-com.svg)
-
-![postgresql-logo](./assets/svg/postgresql-logo-svgrepo-com.svg)
-
-![mongo-db-logo](./assets/svg/mongo-svgrepo-com.svg)
-
-![redis-logo](./assets/svg/redis-svgrepo-com.svg)
-
-</span>
-
-### 🧪 **Testing**
-
-- JUnit5, Jest, Jasmine, PyTest
-
-<span style="display: flex; gap: 10px; align-items: center">
-
-![jest-logo](./assets/svg/jest-svgrepo-com.svg)
-
-![pytest-logo](./assets/svg/pytest.svg)
-
-![junit-logo](./assets/svg/JUnit.svg)
-
-</span>
-
-### ♾️ **DevOps**
-
-- Docker, Kubernetes, CI/CD, Git, GitHub, Heroku, Netlify
-
-<span style="display: flex; gap: 10px; align-items: center">
-
-![git-logo](./assets/svg/git-svgrepo-com.svg)
-
-![git-lab-logo](./assets/svg/github-142-svgrepo-com.svg)
-
-![git-hub-logo](./assets/svg/gitlab-svgrepo-com.svg)
-
-![docker-logo](./assets/svg/docker-svgrepo-com.svg)
-
-![kubernetes-logo](./assets/svg/kubernetes-svgrepo-com.svg)
-
-![heroku-logo](./assets/svg/heroku-svgrepo-com.svg)
-
-![netlify-logo](./assets/svg/netlify-svgrepo-com.svg)
-
-</span>
-
-### 🧰⚙️ **Herramientas**
-
-- Postman, Chrome Devtools, VSC, VS, IntellijIDEA, Pycharm IDE
-
-<span style="display:flex; gap: 10px">
-
-![vsc-logo](./assets/svg/visual-studio-code-svgrepo-com.svg)
-
-![intellijidea-logo](./assets/svg/intellij-idea-svgrepo-com.svg)
-
-![pycharm-logo](./assets/svg/pycharm-svgrepo-com.svg)
-
-![vs-logo](./assets/svg/visual-studio-svgrepo-com.svg)
-
-![chrome-logo](./assets/svg/chrome-color-svgrepo-com.svg)
-
-![postman-logo](./assets/svg/postman-icon-svgrepo-com.svg)
-
-![studio-logo](./assets/svg/android-studio.svg)
-
-</span>
-
-## 🎓 Educación
-
-- **Ingeniería de Software** - Universidad Tecnológica del Perú  
+- **Software Engeneer** -   Technologycal University of Peru  
   Actualmente en el VIII ciclo | Tutor STEM en Algoritmos y Estructura de Datos | Orden al Mérito (2019)
 
----
 
 ## 📜 Certificaciones
 
@@ -201,7 +253,6 @@ Here are some ideas to get you started:
 - **Desarrollo de Aplicaciones Móviles** - FreeCodeCamp, OpenBootCamp (2024)
 - **Desarrolladore de aplicaciones Web** - MTPE (2024)
 
----
 
 ## 🌟 ¿Por qué trabajar conmigo?
 
@@ -209,4 +260,130 @@ Here are some ideas to get you started:
 - 🤝 **Trabajo en equipo:** Colaboro eficazmente con equipos multidisciplinarios para lograr objetivos comunes.
 - 🚀 **Pasión por aprender:** Me mantengo al día con las últimas tendencias en tecnología y desarrollo.
 
----
+## Statics
+
+###
+  ![alt text](image.png)
+
+  
+###
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=2ROGHER&theme=dracula"/></div>
+
+###
+
+###
+
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2ROGHER&theme=react-dark)
+
+###
+
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ROGHER&layout=compact&theme=radical" />
+
+</div>
+
+###
+
+
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=mi-proyecto&theme=radical)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2ROGHER&theme=radical)
+
+![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
+
+
+
+<!-- ### 🚀 ¡Hola! Soy 2ROGHER 👋 -->
+
+📊 **Estadísticas de mi GitHub**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical)
+
+🔥 **Mi racha de commits**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2ROGHER&theme=dark)
+
+📈 **Actividad reciente**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2ROGHER&theme=react-dark)
+
+🏆 **Mis trofeos**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=2ROGHER&theme=dracula)
+
+🎶 **Escuchando ahora en Spotify**
+![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
+
+
+![Metrics](https://metrics.lecoq.io/2ROGHER)
+
+
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2ROGHER&theme=github_dark)
+
+![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)
+
+[![YouTube](https://github-readme-youtube-stats.vercel.app/api/video?id=VIDEO_ID)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
+
+
+
+<!-- 
+# 🚀 ¡Hola! Soy 2ROGHER 👋  
+
+
+💻 **Soy desarrollador full stack apasionado por la tecnología.**  
+🎯 **Especialidades:** Java, Spring Boot, React, TypeScript, Docker.  
+🌱 **Actualmente aprendiendo:** DevOps y arquitectura de software.  
+📫 **Contáctame:** [LinkedIn](https://linkedin.com/in/2ROGHER)  
+
+## 📊 Mis estadísticas  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2ROGHER&theme=dark)  
+
+## 📦 Mis proyectos destacados  
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=mi-proyecto&theme=radical)  
+
+## 🎧 Escuchando en Spotify  
+![Spotify](https://novatorem-2ROGHER.vercel.app/api/spotify)  
+
+
+
+
+## GitHub Stats
+
+- **Public Repositories**: 43
+- **Followers**: 0
+- **Following**: 4
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2ROGHER&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+<img src="https://lottiefiles.com/storage/datafiles/xxxxxx/animation.json" width="400">
+
+## Recent Activity
+
+- **[April 1, 2025]**: Pushed changes to [Civa Checkpoint](https://github.com/2ROGHER/civa-checkpoint) - busses-ms api done.
+- **[April 1, 2025]**: Pushed changes to [Civa Checkpoint](https://github.com/2ROGHER/civa-checkpoint) - api-gateway done.
+- **[April 1, 2025]**: Added first changes to [Civa Checkpoint](https://github.com/2ROGHER/civa-checkpoint).
+- **[March 31, 2025]**: Added filter functionalities to [Color Organizer App](https://github.com/2ROGHER/color-organizer-app).
+- **[March 31, 2025]**: Added changes to [To-Do List](https://github.com/2ROGHER/todos). -->
+
+
+
+
+
+
+## ASCII Art
+
+```
+  ____  ____   ___   ____ _   _ _____ ____  
+ |___ \|  _ \ / _ \ / ___| | | | ____|  _ \ 
+   __) | |_) | | | | |  _| |_| |  _| | |_) |
+  / __/|  _ <| |_| | |_| |  _  | |___|  _ < 
+ |_____|_| \_\\___/ \____|_| |_|_____|_| \_\
+                                            
+```
