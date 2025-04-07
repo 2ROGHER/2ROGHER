@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 ## 🏆 Proyects and wards
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 1.5rem;">
+<div style="display: grid;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=todos&theme=onedark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=civa-checkpoint&theme=cobalt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=color-organizer-app&theme=tokyonight">
@@ -255,10 +255,6 @@ Currently in the 8th semester | STEM Tutor in Algorithms and Data Structures | O
 - 🔍 **Focus on quality:** Every line of code I write is designed to be scalable, secure, and high-performance.
 - 🤝 **Teamwork:** I collaborate effectively with multidisciplinary teams to achieve common goals.
 - 🚀 **Passion for learning:** I stay up-to-date with the latest trends in technology and development.
-
-- **Software Engeneer** -   Technologycal University of Peru  
-  Actualmente en el VIII ciclo | Tutor STEM en Algoritmos y Estructura de Datos | Orden al Mérito (2019)
-
 
 
 
