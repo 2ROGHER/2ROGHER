@@ -125,6 +125,7 @@ Here are some ideas to get you started:
 ## 🏆 Proyects and wards
 
 <div style="display: grid;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=Bibliotheke&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=todos&theme=onedark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=civa-checkpoint&theme=cobalt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=color-organizer-app&theme=tokyonight">
