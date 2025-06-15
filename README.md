@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/github/commit-activity/w/2ROGHER?style=flat-square" />
   <img src="https://badges.pufler.dev/years/2ROGHER"/>
   <img src="https://badges.pufler.dev/commits/daily/2ROGHER"/>
-
 </div>
 
 <div align="center">
@@ -126,7 +125,7 @@ Here are some ideas to get you started:
 
 <div style="display: grid;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=Bibliotheke&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=todos&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=notesapp&theme=onedark">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=civa-checkpoint&theme=cobalt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=color-organizer-app&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=2ROGHER&repo=College-api&theme=darcula">
