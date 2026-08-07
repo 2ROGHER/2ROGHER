@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">Software Engineer | Full-Stack Developer | Passionate about technology | Creator of innovative solutions</h3>
+<h3 align="center">Full-Stack Software Engineer | Java, Spring Boot & Node.js | React & Angular | AWS | Creator of innovative solutions</h3>
 
 ###
 
